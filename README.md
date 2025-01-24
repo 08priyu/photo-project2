@@ -1,2 +1,2 @@
 # New project
-this is my first mini projrct using html and css
+this is my first mini project using html and css
